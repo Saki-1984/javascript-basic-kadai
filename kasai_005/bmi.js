@@ -4,8 +4,8 @@ let wheightNumber;
 let bmi;
 
 //値の代入
-heightNumber = '1.7';
-wheightNumber = '68';
+heightNumber = 1.7;
+wheightNumber = 68;
 bmi = wheightNumber / (heightNumber * heightNumber);
 
 //コンソールへの出力
